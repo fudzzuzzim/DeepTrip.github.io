@@ -183,7 +183,7 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-rows: 200px 2612px 700px;
+  grid-template-rows: 200px 2612px 800px;
   grid-template-columns: 1fr;
   grid-template-areas: "header" "main" "footer";
   height: 100vh;
