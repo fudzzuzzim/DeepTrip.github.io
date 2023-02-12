@@ -451,7 +451,8 @@ body {
 }
 .wrapper main .wrapper-main .content__2 .content__container .content__body .pop-up .pop-up__body .pop-up__content .img {
   max-width: 400px;
-  width:100%;
+  width: 100%;
+  height: auto;
 }
 .wrapper main .wrapper-main .content__2 .content__container .content__body .pop-up .pop-up__body .pop-up__content .pop-up__txt {
   display: flex;
